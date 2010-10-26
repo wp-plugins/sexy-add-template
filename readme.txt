@@ -17,7 +17,7 @@ You can put in the file content before creating it or simply create a blank file
 
 == Installation ==
 
-1. Upload the content of `sexyedit.zip` to the `/wp-content/plugins/` directory
+1. Upload the content of `sexy-add-template.zip` to the `/wp-content/plugins/` directory
 
 == Frequently Asked Questions ==
 
